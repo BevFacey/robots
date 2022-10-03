@@ -1,3 +1,6 @@
-# Facey Robotics
+# The Facey Robotics Team Page
 
-The Facey Robotics Team Page
+We are CyberFlex, team 15254
+
+## [Engineering Notebook](engineering_notebook.md)
+
