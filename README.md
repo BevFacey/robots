@@ -1,2 +1,3 @@
-# robots
-Facey Robotics Team
+# Facey Robotics
+
+The Facey Robotics Team Page
